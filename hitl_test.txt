@@ -1,1 +1,2 @@
 autonomous_action: true
+autonomous_action: true
